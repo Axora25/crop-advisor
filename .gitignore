@@ -1,0 +1,61 @@
+# Environment variables (CRITICAL - never commit secrets!)
+.env
+.env.local
+.env.production
+.env.staging
+
+# Dependencies
+vendor/
+node_modules/
+composer.lock
+package-lock.json
+
+# Database files
+*.sql
+*.db
+*.sqlite
+
+# Logs
+*.log
+logs/
+error_log
+
+# Cache and temporary files
+cache/
+tmp/
+temp/
+*.tmp
+*.cache
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Docker
+docker-compose.override.yml
+
+# Backup files
+*.bak
+*.backup
+*.old
+
+# Uploads and user content
+uploads/
+photos/
+user_uploads/
+
+# Configuration files with sensitive data
+config.local.php
+database.local.php
