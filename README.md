@@ -1,2 +1,0 @@
-# crop-advisor
-help farmers
