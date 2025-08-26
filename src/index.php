@@ -422,13 +422,13 @@ body {
             
             <ul class="footer-links space-y-2">
                 <h3 class="text-lg font-bold mb-3"><?php echo __('social_links'); ?></h3>
-                <li><a href="https://www.linkedin.com/in/asthasinghal24/" target="_blank" class="flex items-center gap-2 hover:underline">
+                <li><a  target="_blank" class="flex items-center gap-2 hover:underline">
                     LinkedIn
                 </a></li>
-                <li><a href="https://github.com/astha161205" target="_blank" class="flex items-center gap-2 hover:underline">
+                <li><a  target="_blank" class="flex items-center gap-2 hover:underline">
                     GitHub 
                 </a></li>
-                <li><a href="https://x.com/astha95474" target="_blank" class="flex items-center gap-2 hover:underline">
+                <li><a  target="_blank" class="flex items-center gap-2 hover:underline">
                     Twitter
                 </a></li>
             </ul>
